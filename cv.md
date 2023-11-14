@@ -18,3 +18,40 @@ I have been interested in computers since childhood. I love learning something n
 - JavaScript (Basic)
 - Git
 - С, С++
+
+## Code examples
+####Description
+Our football team has finished the championship.
+Our team's match results are recorded in a collection of strings. Each match is represented by a string in the format "x:y", where x is our team's score and y is our opponents score.
+For example: ["3:1", "2:2", "0:1", ...]
+Points are awarded for each match as follows:
+if x > y: 3 points (win)
+if x < y: 0 points (loss)
+if x = y: 1 point (tie)
+We need to write a function that takes this collection and returns the number of points our team (x) got in the championship by the rules given above.
+
+
+function points(games) {
+  let points = 0;
+  for (let i = 0; i < 10; i++){
+    points += games[i].split("\:")[0] > games[i].split("\:")[1] ? 3 :
+    games[i].split("\:")[0] == games[i].split("\:")[1] ? 1 : 0
+  }
+  return points;
+}
+
+## Education
+- University: 
+- Ufa State Petroleum Technical University, specialty “Engineer”;
+- Bashkir Academy of Public Service and Management, specialty “Economist”
+
+## Experience
+- Worked as an engineer at a plant for 9 years;
+- 2 years as commercial director in a construction company;
+- More than 5 years of freelancing work (one-page sites, simple sites for companies, various small tasks)
+
+## Languages
+- Russian
+- Tatar
+- German
+- English 
