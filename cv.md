@@ -1,4 +1,4 @@
-# Aidar Ibatullin
+# Aidar Ibatullin      															<image src="https://ibb.co/LYMkkSB"></image>
 ### Frontend Developer
 
 
