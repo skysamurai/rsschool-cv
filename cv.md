@@ -20,7 +20,7 @@ I have been interested in computers since childhood. I love learning something n
 - С, С++
 
 ## Code examples
-####Description
+#### Description
 Our football team has finished the championship.
 Our team's match results are recorded in a collection of strings. Each match is represented by a string in the format "x:y", where x is our team's score and y is our opponents score.
 For example: ["3:1", "2:2", "0:1", ...]
@@ -41,9 +41,9 @@ function points(games) {
 }
 
 ## Education
-- University: 
-- Ufa State Petroleum Technical University, specialty “Engineer”;
-- Bashkir Academy of Public Service and Management, specialty “Economist”
+#### University: 
+1. Ufa State Petroleum Technical University, specialty “Engineer”;
+2. Bashkir Academy of Public Service and Management, specialty “Economist”
 
 ## Experience
 - Worked as an engineer at a plant for 9 years;
