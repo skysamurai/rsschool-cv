@@ -1,17 +1,14 @@
-<image src="https://ltdfoto.ru/images/2023/11/14/small.jpg"></image>
+## Full Name
+Aidar Ibatullin      															
 
-# Aidar Ibatullin      															
-### Frontend Developer
-
-
-## My Contact Info
+## Contact Information
 - Location: Kazan, Tatarstan, Russia
 - Phone: +7-937-15-15-15-3
 - Email: a.ibatullin@gmail.com
 - GitHub: [skySamurai](https://github.com/skysamurai)
 - LinkedIn: [Aidar Ibatullin](https://www.linkedin.com/in/aidar-ibatullin-1b81611a6/)
 
-## About Me
+## Brief Self-Introduction
 I have been interested in computers since childhood. I love learning something new and strive to grow. My strengths: independence, calmness, quick decision making. I want my hobby to become my job and I am ready to make every effort for this.
 
 ## Skills
@@ -42,18 +39,15 @@ function points(games) {
   return points;
 }
 
+## Work Experience
+- Worked as an engineer at a plant for 9 years;
+- 2 years as commercial director in a construction company;
+- More than 5 years of freelancing work (one-page sites, simple sites for companies, various small tasks)
+
 ## Education
 #### University: 
 1. Ufa State Petroleum Technical University, specialty “Engineer”;
 2. Bashkir Academy of Public Service and Management, specialty “Economist”
 
-## Experience
-- Worked as an engineer at a plant for 9 years;
-- 2 years as commercial director in a construction company;
-- More than 5 years of freelancing work (one-page sites, simple sites for companies, various small tasks)
-
-## Languages
-- Russian
-- Tatar
-- German
-- English 
+## English Language 
+B1 – Intermediate
