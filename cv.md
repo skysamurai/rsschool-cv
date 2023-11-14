@@ -1,4 +1,6 @@
-# Aidar Ibatullin      															<image src="https://ibb.co/LYMkkSB"></image>
+<image src="https://ltdfoto.ru/images/2023/11/14/small.jpg"></image>
+
+# Aidar Ibatullin      															
 ### Frontend Developer
 
 
