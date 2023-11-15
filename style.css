@@ -1,0 +1,10 @@
+html {
+  font-size: 30px;
+  font-family: placeholder;
+}
+
+p {
+  color: rgba(0, 0, 255, 0.795);
+  width: 500px;
+  border: 1px solid rgba(123, 174, 226, 0.459);
+}
