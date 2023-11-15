@@ -1,4 +1,4 @@
-<image src="https://ltdfoto.ru/images/2023/11/14/small.jpg"></image>
+![myPhoto](https://ltdfoto.ru/images/2023/11/14/small.jpg)
 
 ## Full Name
 Aidar Ibatullin      															
