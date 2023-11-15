@@ -1,4 +1,4 @@
-![myPhoto](https://ltdfoto.ru/images/2023/11/14/small.jpg)
+![myPhoto](https://github.com/skysamurai/rsschool-cv/assets/60510317/86cba12b-9aec-4d8d-bc6a-fc2384077ce7)
 
 ## Full Name
 Aidar Ibatullin      															
